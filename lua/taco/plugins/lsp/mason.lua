@@ -1,5 +1,4 @@
-return {
-  "williamboman/mason.nvim",
+return { "williamboman/mason.nvim",
   dependencies = {
     "williamboman/mason-lspconfig.nvim",
     "WhoIsSethDaniel/mason-tool-installer.nvim",
@@ -29,7 +28,6 @@ return {
       ensure_installed = {
         "tsserver",
         "html",
-        "typescript-language-server",
         "cssls",
         "tailwindcss",
         "svelte",
@@ -50,7 +48,6 @@ return {
         "isort", -- python formatter
         "black", -- python formatter
         "pylint", -- python linter
-        "eslint_lsp", -- js linter
       },
     })
   end,

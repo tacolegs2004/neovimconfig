@@ -16,7 +16,8 @@
   "nvim-cmp": { "branch": "main", "commit": "04e0ca376d6abdbfc8b52180f8ea236cbfddf782" },
   "nvim-lsp-file-operations": { "branch": "master", "commit": "223aca86b737dc66e9c51ebcda8788a8d9cc6cf2" },
   "nvim-lspconfig": { "branch": "master", "commit": "ae91a303a2258cb9cd9501e9d20c2dc92792d362" },
+  "nvim-treesitter": { "branch": "master", "commit": "f6342874b1113984dfedfcf595ad321c4cd1a896" },
   "plenary.nvim": { "branch": "master", "commit": "4f71c0c4a196ceb656c824a70792f3df3ce6bb6d" },
-  "solarized-osaka.nvim": { "branch": "main", "commit": "f6e66670e31c09cfb7142a16d5dc2f26d2a31a40" },
+  "solarized-osaka": { "branch": "main", "commit": "f6e66670e31c09cfb7142a16d5dc2f26d2a31a40" },
   "telescope.nvim": { "branch": "master", "commit": "d90956833d7c27e73c621a61f20b29fdb7122709" }
 }
