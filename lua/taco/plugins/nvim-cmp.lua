@@ -44,9 +44,6 @@ return {
         { name = "path" },    -- file system paths
       }),
 
-      experimental = {
-        ghost_text = true,
-      },
       -- configure lspkind for vs-code like pictograms in completion menu
       formatting = {
         format = lspkind.cmp_format({
