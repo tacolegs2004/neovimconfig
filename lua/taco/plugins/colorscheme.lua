@@ -7,5 +7,5 @@ return {
     end,
   },
   { "folke/tokyonight.nvim" },
-  { "ellisonleao/gruvbox.nvim", config = true, opts = {} }
+  { "ellisonleao/gruvbox.nvim" }
 }
