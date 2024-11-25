@@ -24,6 +24,7 @@ vim.keymap.set("n", "<Tab>", "<leader>bb")
 vim.keymap.set({ "n", "v" }, "<leader>y", [["+y]])
 vim.keymap.set("n", "<leader>Y", [["+Y]])
 vim.keymap.set("n", "<leader>x", "<leader>bd")
+vim.keymap.set("n", "<leader>rr", "<cmd>RustRun <CR>")
 
 vim.keymap.set({ "n", "v" }, "<leader>d", [["_d]])
 
